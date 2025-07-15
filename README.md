@@ -3,7 +3,7 @@ MongoDB usage example
 
 
 1. Install MongoDB:
-    brew tap mongodb/brew\n
+    brew tap mongodb/brew
     brew install mongodb-community@7.0
 
 2. Start MongoDB:
